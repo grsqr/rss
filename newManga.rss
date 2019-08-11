@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>新連載無料Webマンガ</title>
-    <link>https://newfreemanga.blog.fc2.com/</link>
+    <title>新連載無料Web漫画(マンガ)</title>
+    <link>https://newmanga.hateblo.jp/</link>
     <description />
-    <pubDate>Sat, 10 Aug 2019 20:38:36 GMT</pubDate>
-    <dc:date>2019-08-10T20:38:36Z</dc:date>
+    <pubDate>Sun, 11 Aug 2019 05:43:26 GMT</pubDate>
+    <dc:date>2019-08-11T05:43:26Z</dc:date>
     <item>
       <title>【LINEマンガ】殺スタグラム</title>
       <link>https://manga.line.me/product/periodic?id=Z0000473</link>
@@ -469,6 +469,30 @@
       <pubDate>Fri, 09 Aug 2019 00:00:00 GMT</pubDate>
       <guid>https://www.comic-valkyrie.com/josopan</guid>
       <dc:date>2019-08-09T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>【やわらかスピリッツ】咲宮センパイの弓日</title>
+      <link>https://yawaspi.com/sakimiyasenpai/index.html</link>
+      <description>&lt;img src="https://yawaspi.com/commons/img/series/s18.jpg"&gt;</description>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 GMT</pubDate>
+      <guid>https://yawaspi.com/sakimiyasenpai/index.html</guid>
+      <dc:date>2019-08-11T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>【やわらかスピリッツ】おそとにでようよ雨やんだら</title>
+      <link>https://yawaspi.com/ameyandara/index.html</link>
+      <description>&lt;img src="https://yawaspi.com/commons/img/series/s17.jpg"&gt;</description>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 GMT</pubDate>
+      <guid>https://yawaspi.com/ameyandara/index.html</guid>
+      <dc:date>2019-08-11T00:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>【やわらかスピリッツ】1518! イチゴーイチハチ!</title>
+      <link>https://yawaspi.com/1518/index.html</link>
+      <description>&lt;img src="https://yawaspi.com/commons/img/series/s19.jpg"&gt;</description>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 GMT</pubDate>
+      <guid>https://yawaspi.com/1518/index.html</guid>
+      <dc:date>2019-08-11T00:00:00Z</dc:date>
     </item>
     <item>
       <title>【マガポケ】ひゆみの田舎道</title>
